@@ -27,7 +27,7 @@ class KumKaShree():
     return self.name
 
 if __name__ == '__main__':
-    me = AbhigyanTrips()
+    me = KumKaShree()
 ```
 
 <div align="center">
