@@ -30,7 +30,11 @@ if __name__ == '__main__':
     me = KumKaShree()
 ```
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=byjn0sjishhzycdvx0lrnjpw8&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=byjn0sjishhzycdvx0lrnjpw8&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)]]
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="[https://readme-spotify-tingz.vercel.app/api/now-playing](https://spotify-github-profile.vercel.app/api/view?uid=byjn0sjishhzycdvx0lrnjpw8&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)">
+  </a>
+</div>
 <!--
 <div align="center">
   <a href="https://open.spotify.com/user/byjn0sjishhzycdvx0lrnjpw8">
