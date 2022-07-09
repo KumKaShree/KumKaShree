@@ -29,7 +29,7 @@ class KumKaShree():
 if __name__ == '__main__':
     me = KumKaShree()
 ```
-
+<div style="text-align: right"> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=byjn0sjishhzycdvx0lrnjpw8&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) </div>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=byjn0sjishhzycdvx0lrnjpw8&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <!--
 <div align="center">
