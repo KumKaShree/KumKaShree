@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Abhigyan Trips</b>
+  <b>KumKaShree</b>
 </h1>
 
 Heya! I'm Amit, a student currently living in Odisha, India.
