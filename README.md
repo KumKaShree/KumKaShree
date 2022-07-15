@@ -51,7 +51,6 @@ if __name__ == '__main__':
   <a href="https://botfragg.xyz/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=KumKaShree&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=KumKaShree&theme=gruvbox&hide_border=true" />
-      <img width='49.5%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumKaShree&show_icons=true&theme=gruvbox&hide_border=true&layout=compact">
   </a>
 </p>
 <br>
