@@ -35,7 +35,7 @@ if __name__ == '__main__':
     me = KumKaShree()
 ```
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=byjn0sjishhzycdvx0lrnjpw8&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/byjn0sjishhzycdvx0lrnjpw8)
+[![Discord Presence](https://lanyard.cnrad.dev/api/798605852642115676)](https://discord.com/users/798605852642115676)
 <!--
 <div align="center">
   <a href="https://open.spotify.com/user/byjn0sjishhzycdvx0lrnjpw8">
