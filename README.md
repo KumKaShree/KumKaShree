@@ -34,7 +34,7 @@ class KumKaShree():
 if __name__ == '__main__':
     me = KumKaShree()
 ```
-
+### Discord Pressence
 [![Discord Presence](https://lanyard.cnrad.dev/api/798605852642115676?theme=dark&animated=true&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/798605852642115676)
 <!--
 <div align="center">
