@@ -35,7 +35,7 @@ if __name__ == '__main__':
     me = KumKaShree()
 ```
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/798605852642115676)](https://discord.com/users/798605852642115676)
+[![Discord Presence](https://lanyard.cnrad.dev/api/798605852642115676?theme=dark&animated=true&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/798605852642115676)
 <!--
 <div align="center">
   <a href="https://open.spotify.com/user/byjn0sjishhzycdvx0lrnjpw8">
@@ -60,5 +60,5 @@ if __name__ == '__main__':
 ------
 
 
-Last Edited on: 09/07/2022
+Last Edited on: 15/07/2022
 
