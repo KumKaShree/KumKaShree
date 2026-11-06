@@ -1,7 +1,7 @@
 {
  "BotFragg/BotFragg": [
-  71678,
-  20818
+  71712,
+  20821
  ],
  "BotFragg/botfragg-website": [
   52320,
@@ -78,6 +78,10 @@
  "KumKaShree/newscurator": [
   748,
   0
+ ],
+ "KumKaShree/ocr-service": [
+  1972,
+  455
  ],
  "KumKaShree/rank-image": [
   0,
