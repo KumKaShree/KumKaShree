@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="888" height="822" viewBox="0 0 888 822" role="img" aria-label="KumKaShree console profile">
+<defs>
+<linearGradient id="bg" gradientUnits="userSpaceOnUse" x1="24" y1="0" x2="830.4" y2="0">
+<stop offset="0" stop-color="#0891b2"/><stop offset="0.5" stop-color="#3a7bd5"/><stop offset="1" stop-color="#059669"/>
+</linearGradient>
+<linearGradient id="bs" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.85"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="bt"><text font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="16" xml:space="preserve"><tspan x="24" y="74" textLength="806.4" lengthAdjust="spacingAndGlyphs">██╗  ██╗██╗   ██╗███╗   ███╗██╗  ██╗ █████╗ ███████╗██╗  ██╗██████╗ ███████╗███████╗ </tspan><tspan x="24" y="90" textLength="806.4" lengthAdjust="spacingAndGlyphs">██║ ██╔╝██║   ██║████╗ ████║██║ ██╔╝██╔══██╗██╔════╝██║  ██║██╔══██╗██╔════╝██╔════╝ </tspan><tspan x="24" y="106" textLength="806.4" lengthAdjust="spacingAndGlyphs">█████╔╝ ██║   ██║██╔████╔██║█████╔╝ ███████║███████╗███████║██████╔╝█████╗  █████╗   </tspan><tspan x="24" y="122" textLength="806.4" lengthAdjust="spacingAndGlyphs">██╔═██╗ ██║   ██║██║╚██╔╝██║██╔═██╗ ██╔══██║╚════██║██╔══██║██╔══██╗██╔══╝  ██╔══╝   </tspan><tspan x="24" y="138" textLength="806.4" lengthAdjust="spacingAndGlyphs">██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██╗██║  ██║███████║██║  ██║██║  ██║███████╗███████╗ </tspan><tspan x="24" y="154" textLength="806.4" lengthAdjust="spacingAndGlyphs">╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝ </tspan></text></clipPath>
+<clipPath id="r"><rect width="888" height="822" rx="10"/></clipPath>
+</defs>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono','Courier New',monospace;font-size:14px;white-space:pre}
+.fg{fill:#4c4f69}.dim{fill:#9ca0b0}.key{fill:#ea76cb}.accent{fill:#8839ef}.ok{fill:#40a02b}.num{fill:#df8e1d}.sh{animation:sh 3s ease-in-out infinite}@keyframes sh{0%{transform:translateX(0)}60%,100%{transform:translateX(1368px)}}@media (prefers-reduced-motion:reduce){.sh{animation:none;opacity:0}}
+</style>
+<g clip-path="url(#r)">
+<rect width="888" height="822" fill="#eff1f5"/>
+<rect width="888" height="38" fill="#dce0e8"/>
+<circle cx="22" cy="19.0" r="6" fill="#ff5f56"/><circle cx="42" cy="19.0" r="6" fill="#ffbd2e"/><circle cx="62" cy="19.0" r="6" fill="#27c93f"/>
+<text x="444.0" y="24.0" text-anchor="middle" class="dim">amit@kumkashree: ~</text>
+<g clip-path="url(#bt)"><rect x="0" y="60" width="888" height="102" fill="url(#bg)"/><rect class="sh" x="-299" y="60" width="257" height="102" fill="url(#bs)"/></g>
+<text x="24" y="180" textLength="411.6" lengthAdjust="spacing" xml:space="preserve"><tspan class="ok">&gt; Indie dev. Ships things. Self-hosts everything.</tspan></text>
+<text x="24" y="222" textLength="235.2" lengthAdjust="spacing" xml:space="preserve"><tspan class="ok">amit@kumkashree</tspan><tspan class="accent"> ~ % </tspan><tspan class="fg">./whoami</tspan></text>
+<text x="24" y="243" textLength="285.6" lengthAdjust="spacing" xml:space="preserve"><tspan class="key"> Role </tspan><tspan class="dim">.......... </tspan><tspan class="fg">Backend Developer</tspan></text>
+<text x="24" y="264" textLength="361.2" lengthAdjust="spacing" xml:space="preserve"><tspan class="key"> Uptime </tspan><tspan class="dim">........ </tspan><tspan class="fg">25 years, 5 months, 8 days</tspan></text>
+<text x="24" y="285" textLength="252.0" lengthAdjust="spacing" xml:space="preserve"><tspan class="key"> Location </tspan><tspan class="dim">...... </tspan><tspan class="fg">Odisha, India</tspan></text>
+<text x="24" y="306" textLength="327.6" lengthAdjust="spacing" xml:space="preserve"><tspan class="key"> Languages </tspan><tspan class="dim">..... </tspan><tspan class="fg">Python, Go, TypeScript</tspan></text>
+<text x="24" y="327" textLength="579.6" lengthAdjust="spacing" xml:space="preserve"><tspan class="key"> Frameworks </tspan><tspan class="dim">.... </tspan><tspan class="fg">FastAPI, Gin, discordgo, discord.py, Next.js, Elysia</tspan></text>
+<text x="24" y="348" textLength="285.6" lengthAdjust="spacing" xml:space="preserve"><tspan class="key"> Data </tspan><tspan class="dim">.......... </tspan><tspan class="fg">PostgreSQL, Redis</tspan></text>
+<text x="24" y="369" textLength="420.0" lengthAdjust="spacing" xml:space="preserve"><tspan class="key"> Deploy </tspan><tspan class="dim">........ </tspan><tspan class="fg">Docker, Traefik, Dokploy, Coolify</tspan></text>
+<text x="24" y="390" textLength="462.0" lengthAdjust="spacing" xml:space="preserve"><tspan class="key"> Self-hosting </tspan><tspan class="dim">.. </tspan><tspan class="fg">WireGuard, Supabase, GlitchTip, Rybbit</tspan></text>
+<text x="24" y="411" textLength="176.4" lengthAdjust="spacing" xml:space="preserve"><tspan class="key"> Learning </tspan><tspan class="dim">...... </tspan><tspan class="fg">Rust</tspan></text>
+<text x="24" y="453" textLength="277.2" lengthAdjust="spacing" xml:space="preserve"><tspan class="ok">amit@kumkashree</tspan><tspan class="accent"> ~ % </tspan><tspan class="fg">./stats --all</tspan></text>
+<text x="24" y="474" textLength="495.6" lengthAdjust="spacing" xml:space="preserve"><tspan class="key"> Repos </tspan><tspan class="dim">......... </tspan><tspan class="num">42</tspan><tspan class="key">                     Stars </tspan><tspan class="dim">......... </tspan><tspan class="num">128</tspan></text>
+<text x="24" y="495" textLength="487.2" lengthAdjust="spacing" xml:space="preserve"><tspan class="key"> Commits </tspan><tspan class="dim">....... </tspan><tspan class="num">3,210</tspan><tspan class="key">                  Followers </tspan><tspan class="dim">..... </tspan><tspan class="num">64</tspan></text>
+<text x="24" y="516" textLength="554.4" lengthAdjust="spacing" xml:space="preserve"><tspan class="key"> Streak </tspan><tspan class="dim">........ </tspan><tspan class="num">17 days (best 64)</tspan><tspan class="key">      Last Push </tspan><tspan class="dim">..... </tspan><tspan class="num">6 Nov 2026</tspan></text>
+<text x="24" y="537" textLength="411.6" lengthAdjust="spacing" xml:space="preserve"><tspan class="key"> Lines of Code </tspan><tspan class="dim">. </tspan><tspan class="num">184,320</tspan><tspan class="dim">  ( </tspan><tspan class="ok">251,000++</tspan><tspan class="dim">, </tspan><tspan class="key">66,680--</tspan><tspan class="dim"> )</tspan></text>
+<text x="24" y="579" textLength="268.8" lengthAdjust="spacing" xml:space="preserve"><tspan class="ok">amit@kumkashree</tspan><tspan class="accent"> ~ % </tspan><tspan class="fg">ls projects/</tspan></text>
+<text x="24" y="600" textLength="84.0" lengthAdjust="spacing" xml:space="preserve"><tspan class="accent"> BotFragg/</tspan></text>
+<text x="24" y="621" textLength="646.8" lengthAdjust="spacing" xml:space="preserve"><tspan class="fg">   Your VALORANT store, account stats, and skin alerts, right inside Discord.</tspan></text>
+<text x="24" y="642" textLength="520.8" lengthAdjust="spacing" xml:space="preserve"><tspan class="dim">   Python | PostgreSQL | Docker | github.com/BotFragg/BotFragg</tspan></text>
+<text x="24" y="684" textLength="294.0" lengthAdjust="spacing" xml:space="preserve"><tspan class="ok">amit@kumkashree</tspan><tspan class="accent"> ~ % </tspan><tspan class="fg">cat contact.txt</tspan></text>
+<text x="24" y="705" textLength="319.2" lengthAdjust="spacing" xml:space="preserve"><tspan class="key"> GitHub </tspan><tspan class="dim">........ </tspan><tspan class="fg">github.com/KumKaShree</tspan></text>
+<text x="24" y="726" textLength="226.8" lengthAdjust="spacing" xml:space="preserve"><tspan class="key"> Discord </tspan><tspan class="dim">....... </tspan><tspan class="fg">kumkashree</tspan></text>
+<text x="24" y="747" textLength="302.4" lengthAdjust="spacing" xml:space="preserve"><tspan class="key"> Email </tspan><tspan class="dim">......... </tspan><tspan class="fg">ad7392182@gmail.com</tspan></text>
+<text x="24" y="789" textLength="168.0" lengthAdjust="spacing" xml:space="preserve"><tspan class="ok">amit@kumkashree</tspan><tspan class="accent"> ~ % </tspan></text>
+<rect x="192.0" y="776" width="8.4" height="17" fill="#4c4f69"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></rect>
+</g></svg>
