@@ -164,7 +164,7 @@ def fetch_stats(user, token):
         cursor = u["repositories"]["pageInfo"]["endCursor"]
 
     owned = [r for r in repos if r["owner"]["login"].lower() == user.lower()]
-    stars = sum(r["stargazerCount"] for r in owned)
+    stars = sum(r["stargazerCount"] for r in owned)   # org-repo stars are added below, after we know where you contributed
 
     # commits: sum per calendar year (private ones counted via restrictedContributionsCount)
     cq = """
@@ -224,6 +224,7 @@ def fetch_stats(user, token):
     cache_path = os.path.join("cache", "loc.json")
     cache = json.load(open(cache_path, encoding="utf-8")) if os.path.exists(cache_path) else {}
     add_total = del_total = 0
+    org_stars = 0
     for r in repos:
         if r["isFork"] and not INCLUDE_FORKS_IN_LOC:
             continue
@@ -247,10 +248,13 @@ def fetch_stats(user, token):
         cache[nwo] = result
         add_total += result[0]
         del_total += result[1]
+        # stars from org/collaborator repos count only if you actually authored code in them
+        if r["owner"]["login"].lower() != user.lower() and result[0] + result[1] > 0:
+            org_stars += r["stargazerCount"]
     os.makedirs("cache", exist_ok=True)
     json.dump(cache, open(cache_path, "w", encoding="utf-8"), indent=1, sort_keys=True)
 
-    return dict(repos=len(owned), stars=stars, followers=followers, commits=commits,
+    return dict(repos=len(owned), stars=stars + org_stars, followers=followers, commits=commits,
                 loc=add_total - del_total, add=add_total, dele=del_total,
                 streak=cur, best_streak=best, last_push=last_push or "n/a")
 
