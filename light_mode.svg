@@ -20,7 +20,7 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','D
 <text x="24" y="180" textLength="411.6" lengthAdjust="spacing" xml:space="preserve"><tspan class="ok">&gt; Indie dev. Ships things. Self-hosts everything.</tspan></text>
 <text x="24" y="222" textLength="235.2" lengthAdjust="spacing" xml:space="preserve"><tspan class="ok">amit@kumkashree</tspan><tspan class="accent"> ~ % </tspan><tspan class="fg">./whoami</tspan></text>
 <text x="24" y="243" textLength="285.6" lengthAdjust="spacing" xml:space="preserve"><tspan class="key"> Role </tspan><tspan class="dim">.......... </tspan><tspan class="fg">Backend Developer</tspan></text>
-<text x="24" y="264" textLength="369.6" lengthAdjust="spacing" xml:space="preserve"><tspan class="key"> Uptime </tspan><tspan class="dim">........ </tspan><tspan class="fg">25 years, 5 months, 13 days</tspan></text>
+<text x="24" y="264" textLength="369.6" lengthAdjust="spacing" xml:space="preserve"><tspan class="key"> Uptime </tspan><tspan class="dim">........ </tspan><tspan class="fg">25 years, 5 months, 14 days</tspan></text>
 <text x="24" y="285" textLength="252.0" lengthAdjust="spacing" xml:space="preserve"><tspan class="key"> Location </tspan><tspan class="dim">...... </tspan><tspan class="fg">Odisha, India</tspan></text>
 <text x="24" y="306" textLength="327.6" lengthAdjust="spacing" xml:space="preserve"><tspan class="key"> Languages </tspan><tspan class="dim">..... </tspan><tspan class="fg">Python, Go, TypeScript</tspan></text>
 <text x="24" y="327" textLength="579.6" lengthAdjust="spacing" xml:space="preserve"><tspan class="key"> Frameworks </tspan><tspan class="dim">.... </tspan><tspan class="fg">FastAPI, Gin, discordgo, discord.py, Next.js, Elysia</tspan></text>
